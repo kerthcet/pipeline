@@ -3,7 +3,7 @@ module github.com/tektoncd/pipeline
 go 1.17
 
 require (
-	github.com/cloudevents/sdk-go/v2 v2.5.0
+	github.com/cloudevents/sdk-go/v2 v2.12.0
 	github.com/containerd/containerd v1.5.10
 	github.com/google/go-cmp v0.5.7
 	github.com/google/go-containerregistry v0.8.1-0.20220216220642-00c59d91847c
@@ -115,7 +115,7 @@ require (
 	github.com/shurcooL/graphql v0.0.0-20181231061246-d48a9a75455f // indirect
 	github.com/sirupsen/logrus v1.8.1 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	github.com/stretchr/testify v1.7.0 // indirect
+	github.com/stretchr/testify v1.8.0 // indirect
 	github.com/tektoncd/resolution v0.0.0-20220331203013-e4203c70c5eb
 	github.com/vbatts/tar-split v0.11.2 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
